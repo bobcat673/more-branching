@@ -1,4 +1,4 @@
-# Cyphier
+# More branching
 #### By Aidan Portwood
 
 #### A simple project that does nothing
@@ -15,7 +15,7 @@ A simple project that does nothing
 ## Setup/Installation Requirements
 
 * open git bash or another terminal application
-* run the command "git clone https://github.com/bobcat673/cyphier.git
+* run the command "git clone https://github.com/bobcat673/more-branching.git
 * open index.html
 
 ## Known Bugs
